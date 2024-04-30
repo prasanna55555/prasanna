@@ -4,113 +4,117 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>5G TECHNOLOGIES</title>
+    <title>JAVA</title>
 </head>
 <body>
     <header>
-        <h1>Welcome to 5G TECHNOLOGIES</h1>
+        <h1>Welcome to JAVA </h1>
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
-                
-            </ul>
+                <li><a href="#">About</a></li>
+
+                            </ul>
         </nav>
     </header>
     <main>
         <section>
             <h2>INRODUCTION</h2>
-            <p>Welcome to 5G TECHNOLOGIES. We provide top-notch services to our clients.
-<li>What are the 5G TECHNOLOGIES?
-In telecommunications, 5G is the fifth-generation technology standard for cellular networks, which cellular phone companies began deploying worldwide in 2019, and is the suLike its predecessors, 5G networks are cellular networks, in which the service area is divided into small geographical areas called cells. All 5G wireless devices in a cell are connected to the Internet and the telephone network by radio waves through a basestation and antennae in the cell. The new networks have higher download speeds, with a peak speed of 10 gigabits per second (Gbit/s) when there is only one user in the network. 5G has higher bandwidth to deliver faster speeds than 4G and can connect more devices, improving the quality of Internet services in crowded areas. Due to the increased bandwidth, it is expected the 5G networks will increasingly be used as general internet service providers (ISPs), competing with existing ISPs such as cable internet, and also will make possible new applications in internet-of-things (IoT) and machine-to-machine areas.ccessor to 4G technology that provides connectivity to most current mobile phones.
-</li>
+            <p>Welcome to JAVA .Popular for its versatility and ability to create a wide variety of applications, learning Java opens up your possibilities when coding. With it, you’ll be able to develop large systems, software, and mobile applications — and even create mobile apps for Android. Learn important Java coding fundamentals and practice your new skills with realworld projects.
 
-<li>What is the SPEED of 5G ?
-5G is capable of delivering significantly faster data rates than 4G, with peak data rates of up to 20 gigabits per second (Gbps). Furthermore, average 5G download speeds have been recorded at 186.3 Mbit/s in the U.S. by T-Mobile, while South Korea leads globally with average speeds of 432 megabits per second (Mbps). 5G networks are also designed to provide significantly more capacity than 4G networks, with a projected 100-fold increase in network capacity and efficiency. 
-The most widely used form of 5G, sub-6 GHz 5G (mid-band), is capable of delivering data rates ranging from 10 to 1,000 megabits per second (Mbps), with a much greater reach than mmWave bands. C-Band (n77/n78) was deployed by various U.S. operators in 2022 in the sub-6 bands, although its deployment by Verizon and AT&T was delayed until early January 2022 due to safety concerns raised by the Federal Aviation Administration. The record for 5G speed in a deployed network is 5.9 Gbps as of 2023, but this was tested before the network was launched. 
-</li>
+INTRODUCTION TO JAVA:
+ Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is intended to let application developers write once, and run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java was first released in 1995 and is widely used for developing applications for desktop, web, and mobile devices. Java is known for its simplicity, robustness, and security features, 
+making it a popular choice for enterprise level applications.
 
-<li>What are the advantages of 5G?
- Faster Speeds: 5G offers significantly faster data transfer speeds compared to previous generations. It can deliver peak download speeds of up to 10 gigabits per second (Gbps), enabling rapid data transfer, seamless streaming of high-definition content, and quick downloads of large files.
- 
-Lower Latency: Latency is the time it takes for data to travel from one point to another. 5G has much lower latency than 4G LTE, which means that users will experience a smoother and more responsive experience when using applications that require real-time communication, such as video conferencing and online gaming. 5G technology brings ultra-low latency, reducing the delay in data transmission. It enables real-time communication and responsiveness, making it suitable for applications that require instantaneous interactions, such as autonomous vehicles, remote surgery, and virtual reality (VR) gaming.
- 
-Greater Capacity: 5G networks can support more devices than 4G LTE networks. This is important as the number of connected devices continues to grow. With its expanded bandwidth, 5G can accommodate a much higher number of connected devices per unit area. This capacity is crucial for the growing number of Internet of Things (IoT) devices, smart cities, and smart homes, ensuring a smooth and uninterrupted connectivity experience.
-
-</li>
-
-<li>What are the Disadvantages of 5G?
-Infrastructure Requirements: Implementing 5G networks requires significant infrastructure upgrades, including the installation of new base stations, small cells, and fiber-optic cables. This infrastructure investment can be costly and time-consuming, especially in rural or remote areas with limited existing infrastructure.
- 
-Limited Coverage: Initially, 5G coverage may be limited to urban areas and densely populated regions, with rural areas experiencing slower deployment. Achieving widespread coverage requires extensive infrastructure development, which can take time to complete.
-
-Higher Frequencies and Range: Some 5G frequencies, particularly those in the higher range, have a shorter range compared to lower frequencies. This necessitates the installation of more base stations and small cells to ensure consistent coverage, particularly in buildings and areas with obstacles.
- 
-Device Compatibility: To take full advantage of 5G technology, devices need to be compatible with the new network. Initially, there may be limited availability of 5G-compatible devices, and users may need to upgrade their smartphones, tablets, or other devices to access 5G networks.
-</li>
-
- </p>
+</p>
         </section>
 <section>
 <h2>About us</h2>
 <p> welcome to our site we are students of ASN DEGREE COLLEGE,TENALI
-      
-</P>
+      </P>
 </section> 
         <section>
-            <h2>Our Services</h2>
-            <ul>
+                       <ul>
                 <li>Web Design over view</li>
-<p> 
-<li> 5G Challenges : </li>
-<li>Challenges are the inherent part of the new development; so, like all technologies, 5G has also big challenges to deal with. As we see past i.e. development of radio technology, we find very fast growth. Starting from 1G to 5G, the journey is merely of about 40 years old (Considering 1G in 1980s and 5G in 2020s). However, in this journey, the common challenges that we observed are lack of infrastructure, research methodology, and cost.
-</li>
+<p> ABOUT JAVA :
 
+Java’s history is very interesting. It is a programming language created in 1991. James Gosling, Mike Sheridan, and Patrick Naughton, a team of Sun engineers known as the Green team initiated the Java language in 1991. Sun Microsystems released its first public implementation in 1996 as Java 1.0. It provides no-cost -run-times on popular platforms. Java1.0 compiler was re-written in Java by Arthur Van Hoff to strictly comply with its specifications. With the arrival of Java 2, new versions had multiple configurations built for different types of platforms.
+  In 1997, Sun Microsystems approached the ISO standards body and later formalized Java, but it soon withdrew from the process. At one time, Sun made most of its Java implementations available without charge, despite their proprietary software status. Sun generated revenue from Java through the selling of licenses for specialized 
+products such as the Java Enterprise System
+ </p>
 
-<li>Future scope :</li>
+<p>What is Java?
+  Java is aprogramming languageand a platform. Java is a high level, robust, object-oriented and secure programming language.
+  Java was developed by Sun Microsystems (which is now the subsidiary of Oracle) in the year 1995.James Gosling is known as the father of Java. Before Java, its name wasOak. Since Oak was already a registered company, so James Gosling and his team changed the name from Oak to Java.
+  Platform: Any hardware or software environment in which a program runs, is known as a platform. Since Java has a runtime environment 
+(JRE) and API, it is called a platform.
+  Java is anobject-oriented, class-based, concurrent, secured and general-purpose computer-programming language. It is a widely used 
+robust technology</p>
+       <p>Features of Java:
+ The primary objective of Java programminglanguage creation was to make it portable, simple and secure programming language. Apart from this, there are also 
+some excellent features which play an important role in the popularity of this language. The features of Java are also known as Java buzzwords.
+A list of the most important features of the Java language is 
+given below:
+ Simple
+ Object-oriented
+ Platform Independent
+ Java is very easy to learn, and its syntax is simple, clean and easy to understand. According to Sun Microsystem, Java 
+language is a simple programming language because:
+ Java syntax is based on C++ (so easier for programmers to learn it after C++).
+ Java has removed many complicated and rarely-used features, for example, explicit pointers, operator overloading, etc.
+ Java is anobject-oriented programming language. Everything in Java is an object. Object-oriented means we organize our software as a combination of different types of objects that incorporate both data and behavior
+ Java is platform independent because it is different from other languages like C , C++ , etc. which are compiled into platform specific machines while Java is a write once, run anywhere language. A platform is the hardware or software environment in which a program 
+runs
 
-<li>Several researches and discussions are going on across the world among technologists, researchers, academicians, vendors, operators, and governments about the innovations, implementation, viability, and security concerns of 5G.
-As proposed, loaded with multiple advance features starting from the super high speed internet service to smooth ubiquitous service, 5G will unlock many of the problems. However, the question is — in a situation, where the previous technologies (4G and 3G) are still under process and in many parts yet to be started; what will be the future of 5G. 5th generation technology is designed to provide incredible and remarkable data capabilities, unhindered call volumes, and immeasurable data broadcast within the latest mobile operating system. Hence, it is more intelligent technology, which will interconnect the entire world without limits. Likewise, our world would have universal and uninterrupted access to information, communication, and entertainment that will open a new dimension to our lives and will change our life style meaningfully.
-Moreover, governments and regulators can use this technology as an opportunity for the good governance and can create healthier environments, which will definitely encourage continuing investment in 5G </li>
+Java is best known for its security. With Java, we can develop virus-free systems. Java is secured because:
+ • No explicit pointer
+ • Java Programs run inside a virtual machine sandbox
+ • Classloader: Classloader in Java is a part of the Java Runtime Environment (JRE) which is used to load Java classes into the Java Virtual Machine dynamically. It adds security by separating the package for the classes of the local file system from those that are imported from network sources.
+ • Bytecode Verifier: It checks the code fragments for illegal code that can violate access rights to objects.
+ Robustexplicitly 
+• Security Manager: It determines what resources a class can access such as reading and writing to the local disk.
+ Java language provides these securities by default. Some security can also be provided by an application 
+developer 
+through 
+SSL, 
+JAAS, 
+Cryptography, 
+The English mining of Robust is strong. Java is robust because:
+ It uses strong memory management.There is a lack of pointers that avoids security problems.Java provides automatic garbage collection which runs on the Java Virtual Machine to get rid of objects which are not being used by a Java application anymore.There are exception handling and the type checking mechanism in Java. All these points 
+make Javarobust.
+ etc.
+ Architecture-neutral
+  Java is architecture neutral because there are no implementation dependent features,
+  for example, the size of primitive types is fixed.
+  In C programming, int data type occupies 2 bytes of memory for 32-bit architecture and 4 bytes of memory for 
+64-bit architecture. However, it occupies 4 bytes of memory for both 32 and 64-bit architectures in Java.
+  Portable
+  Java is portable because it facilitates you to carry the Java bytecode to any platform. It doesn't require any 
+implementation.
+  High-performanc</p>
 
-<li>5G Advancement :</li>
+<p> Let's see what is the meaning of class, public,Parameters used in First Java Programstatic, void, main, String[], System.out.println().
+  class keyword is used to declare a class in Java.
+  public keyword is an access modifier that represents visibility. It 
+means it is visible to all.
+  static is a keyword. If we declare any method as static, it is known as the static method. The core advantage of the static method is that there is no need to create an object to invoke the static method. The main() method is executed by the JVM, so it doesn't require creating an object to invoke the main() 
+method. So, it saves memory.
+  void is the return type of the method. It means it doesn't return 
+any value.
+  main represents the starting point of the program.
+  String[] args or String args[] is used for command line argument. We will discuss it in coming section.
+  System.out.println() is used to print statement. Here, System is a class, out is an object of the PrintStream class, println() is a method of the PrintStream class. We will discuss the internal working of System.out.println() statement in the coming section.
+<p>Conclusion:
+  Java project is a valuable endeavor for aspiring developers. Here are some key points to consider:
+  Object-Oriented Language: Java is anobject-oriented programming languagedesigned to run code on various platforms without recompilation. It remains 
+one of the most popular and in-demand languages.
+  Compile-Time Error Checking: Java projects providerigorous compile-time error checking, akin to Pascal. This feature allows instructors to introduce students to 
+essential concepts like GUI programming, networking, and multithreading used in modern software development.
+  Versatility: Learning Java equips developers with a versatile skill set, opening up opportunities to work on complex applications. Its widespread use 
+ensures that Java will remain relevant for years to come12 
 
-<liApplication of 5G is very much equivalent to accomplishment of dream. It is integrated with beyond the limit advance features in comparison to the previous technologies.
-Advanced Features
-*In comparison to previous radio technologies, 5G has following advancement 
-*Practically possible to avail the super speed i.e. 1 to 10 Gbps.
-*Latency will be 1 millisecond (end-to-end round trip).
-*1,000x bandwidth per unit area.
-*Feasibility to connect 10 to 100 number of devices.
-*Worldwide coverage.
-*About 90% reduction in network energy usage.
-*Battery life will be much longer.
-*Whole world will be in wi fi zone</li>
-
-
-<li>5G Time-period required</li>
-
-</li>Normally, it is expected that the time period required for the 5G technology development and its implementation is about five years more from now (by 2020). But to becoming usable for the common people in developing countries, it could be even more.
-synchronization Technology is essential for all wireless communication, including 5G networks. Duplexing, multiplexing, and packet-based strategies all rely heavily on timing references to coordinate data transmission, prevent interference, reduce error rates, and compensate for any frequency or phase shifts.   
-Frequency Synchronization describes a state in which the frequencies (repeating intervals) of different system clocks are aligned, but the phase and time are not.  
-Phase Synchronization means clocks are aligned with respect to frequency as well as phase but lack a common time origin.  
-Time Synchronization refers to a state where both phase and frequency synchronization are in place and the clocks also have a common time origin, such as Coordinated Universal Time (UTC). </li>	
-
-<li>5G Achritecture:</li>
-
-<li>Architecture of 5G is highly advanced, its network elements and various terminals are characteristically upgraded to afford a new situation. Likewise, service providers can implement the advance technology to adopt the value-added services easily.
-However, upgradeability is based upon cognitive radio technology that includes various significant features such as ability of devices to identify their geographical location as well as weather, temperature, etc. Cognitive radio technology acts as a transceiver (beam) that perceptively can catch and respond radio signals in its operating environment. Further, it promptly distinguishes the changes in its environment and hence respond accordingly to provide uninterrupted quality service.
-</li>
-
-<li>Differences of 4G and 5G:</li>
-
-<li>4G is a mobile phone network technology, and like its predecessor 3G, it can be used for downloading data and accessing internet, but the difference is that it’s a lot faster than 3G. It provides broadband cellular network services. The International Telecommunication Union (ITU-R) set the standards for 4G and are denoted as the International Mobile Telecommunications Advanced (IMT-Advanced). It is expected to provide services with bandwidth higher than 100 Mbps. With this bandwidth, high quality of multimedia content can stream.
-</li>
-
-<li>5G is the fifth generation of wireless network technology. It is built on what’s called millimeter waves, a section of very high frequency spectrum upwards of 20 GHz all the way up to 96 GHz. 5th Generation of phones are currently under development and latest iteration of cellular technology. It is to promised to offer much faster speed than 4G networks, more reliability with much lower response times.
-</li>
-
-      </p>
-     </ul>
+</p>
+       </ul>
         </section>
         </main>
     <footer>
